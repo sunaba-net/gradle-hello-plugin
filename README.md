@@ -6,7 +6,7 @@
 
 mavenLocal()にインストール
 ```sh
-./gradlew publichToMavenLocal
+./gradlew publishToMavenLocal
 ```
 
 テスト用プロジェクトで実行
